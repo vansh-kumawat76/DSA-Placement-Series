@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.enabled": false
+}

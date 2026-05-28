@@ -28,7 +28,7 @@ int minEatingSpeed(vector<int> &piles, int h)
     }
     int ans = 0;
     for (int k = 1; k <= maxi; k++)
-    {
+    {//minimize answer
         if (checkSpeed(piles, k, h))
         {
             ans = k;
